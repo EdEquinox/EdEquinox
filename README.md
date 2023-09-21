@@ -7,7 +7,7 @@ Currently studying software engineering at ISEC, Coimbra and developing freelanc
 
 
 - 🔭 I’m currently working on my degree 
-- 🌱 I’m currently learning JAVA 
+- 🌱 I’m currently learning Kotlin 
 - 💬 Ask me about anything 
 - 📫 How to reach me: jmarquesnox@gmail.com 
 
