@@ -4,7 +4,7 @@
 
 Currently studying software engineering at ISEC, Coimbra and developing freelancer software.
 
-
+Visit my portfolio: https://edequinox.vercel.app
 
 - 🔭 I’m currently working on my degree and looking for a job opportunity 
 - 💬 Ask me about anything 
